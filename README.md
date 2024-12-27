@@ -17,7 +17,7 @@
   <h3 align="center">A Junior Web Developer</h3>
   <p align="justify">
     <font color="#EFEFEF">
-        You’ve gotten this far and now I consider us friends. It’s nice to meet you! I'm a developer passionate about creating interactive web experiences that bring ideas to life and designing user-centric solutions that improve everyday lives, especially within the direct-to-consumer space. Previously, I honed my skills through personal projects and collaborations, crafting dynamic websites and applications. Currently, I'm a freelance junior web developer exploring opportunities to contribute to innovative projects.
+        You’ve gotten this far and now I consider us friends. It’s nice to meet you! I'm a web developer passionate about creating interactive web experiences that bring ideas to life and designing user-centric solutions that improve everyday lives, especially within the direct-to-consumer space. Previously, I honed my skills through personal projects and collaborations, crafting dynamic websites and applications. Currently, I'm a freelance junior web developer exploring opportunities to contribute to innovative projects.
     </font>
   </p>
 
