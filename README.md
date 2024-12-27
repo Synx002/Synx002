@@ -8,13 +8,19 @@
 <div align="center">
  
 <p align="center">
-    <img src="https://github.com/Synx002/Synx002/blob/main/synx_landscape.png?raw=true" alt="Junior Web Developer" style="max-width: 400px; height: 400px;">
+    <img src="https://github.com/Synx002/Synx002/blob/main/synx_landscape.png?raw=true" alt="Junior Web Developer" style="max-width: 350px; height: 350px;">
 </p>
 
  </div>
  
 <div align="center"> 
   <h3 align="center">A Junior Web Developer</h3>
+  <p align="justify">
+    <font color="#EFEFEF">
+        You’ve gotten this far and now I consider us friends. It’s nice to meet you! I'm a developer passionate about creating interactive web experiences that bring ideas to life and designing user-centric solutions that improve everyday lives, especially within the direct-to-consumer space. Previously, I honed my skills through personal projects and collaborations, crafting dynamic websites and applications. Currently, I'm a freelance junior web developer exploring opportunities to contribute to innovative projects.
+    </font>
+  </p>
+
   <a href="mailto:mosyam0202@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -26,7 +32,7 @@
  <hr/>
  
 <h2 align="center">✨ Languages-Frameworks-Tools ✨</h2>
-<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,mysql,php" /><br>
@@ -34,22 +40,3 @@
 
 <br/>
 <hr/>
-
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-<img alt="Syam's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Synx02&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synx02&layout=compact&&langs_count=8"/>
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-
-<br/>
