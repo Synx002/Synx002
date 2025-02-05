@@ -8,7 +8,7 @@
 <div align="center">
  
 <p align="center">
-    <img src="https://github.com/Synx002/Synx002/blob/main/synx_landscape.png?raw=true" alt="Junior Web Developer" style="max-width: 300px; height: auto;">
+    <img src="https://github.com/Synx002/Synx002/blob/main/synx_landscape.png?raw=true" alt="Junior Web Developer" style="max-width: 200px; height: auto;">
 </p>
 
  </div>
